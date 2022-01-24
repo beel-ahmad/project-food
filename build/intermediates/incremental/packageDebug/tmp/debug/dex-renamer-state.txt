@@ -1,0 +1,4 @@
+#Sun Jan 23 11:02:48 PKT 2022
+base.0=C\:\\Users\\Nabeel\\AndroidStudioProjects\\food-ordering-system-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+path.0=classes.dex

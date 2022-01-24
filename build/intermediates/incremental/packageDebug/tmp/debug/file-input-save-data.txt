@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Jan 23 11:02:52 PKT 2022
+0.base=C\:\\Users\\Nabeel\\AndroidStudioProjects\\food-ordering-system-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+count=1
+0.baseType=DIRECTORY
+0.set=DEX

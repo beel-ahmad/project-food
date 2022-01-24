@@ -1,0 +1,182 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Nabeel\AndroidStudioProjects\food-ordering-system-master\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Nabeel\AndroidStudioProjects\food-ordering-system-master\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Nabeel\AndroidStudioProjects\food-ordering-system-master\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Nabeel\AndroidStudioProjects\food-ordering-system-master\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\d0e5585bf8fde125ede557bfc1d841da\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\dfd67a376e9d2865c3fe8ab1660e84ed\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\ca9e47a561e9a4a9e099a91c0e15284b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\870e09e00b53e1c09c97b2ff912738dd\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\ce13978c231ebe60dd37b596d35bbffc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\f5753571c5422efc0a02ae07feba6ba6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\57db317afda68f79fd43af5cd351148f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\861f87c8bc321a56e7f59a1fb6358e71\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\dd4f4a1af8244305cc2b3cb9b21bf28b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\194290bef3aca4a28917fc1ba2ed36a8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\eb6009435b57a59d3792a1d6ec027dcf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\657d3c1c84b39b9eccfb430fe705d6bc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\c6d7f59aebf0a9885f78dfd729e3be35\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\7bfe4cc7c14b029d88201353bb487ab7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\635347cc0e144c3746ac4c52a28c9a12\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\bb8bd60abc8ec7d9224457aaa8d52436\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\029f015d6be8c107380c66d8b180e351\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\9bf18e9fca6c79ee6e5ebb9c11a6c3c2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\ae32bb954290fcd0182fff2c6724392a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\24506136793fc1472fcb3b2fffcac7b1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\2774051dae4fd803dc435bc5419ecda1\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\815903cfea809dbbc2d75a05340ebfac\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e55294b3c6f9a3de445f246cafb58d46\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\7167df32433b9b0bfcfc517db1212167\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\1ed7f09e7259085c4de92041eb407e32\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\6c22b17cfa2fd6fa151e59230a78812b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1037215c12b92f2467d06571f2e77613\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\0ce60ef006fe96d006a8b517013aee15\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\8de8504243b0caaca1e39ba85968539a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\c23dc22405125cc3279ca8e8dacc4b7b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8cc362f6b806a905a9b86e532ff403cd\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Nabeel\AndroidStudioProjects\food-ordering-system-master\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Nabeel\AndroidStudioProjects\food-ordering-system-master\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Nabeel\AndroidStudioProjects\food-ordering-system-master\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from C:\Users\Nabeel\AndroidStudioProjects\food-ordering-system-master\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\Users\Nabeel\AndroidStudioProjects\food-ordering-system-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nabeel\AndroidStudioProjects\food-ordering-system-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Nabeel\AndroidStudioProjects\food-ordering-system-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nabeel\AndroidStudioProjects\food-ordering-system-master\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\Nabeel\AndroidStudioProjects\food-ordering-system-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Nabeel\AndroidStudioProjects\food-ordering-system-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nabeel\AndroidStudioProjects\food-ordering-system-master\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\Nabeel\AndroidStudioProjects\food-ordering-system-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Nabeel\AndroidStudioProjects\food-ordering-system-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\Nabeel\AndroidStudioProjects\food-ordering-system-master\app\src\main\AndroidManifest.xml:5:5-69
+	android:name
+		ADDED from C:\Users\Nabeel\AndroidStudioProjects\food-ordering-system-master\app\src\main\AndroidManifest.xml:5:22-66
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\Nabeel\AndroidStudioProjects\food-ordering-system-master\app\src\main\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\Users\Nabeel\AndroidStudioProjects\food-ordering-system-master\app\src\main\AndroidManifest.xml:6:22-64
+application
+ADDED from C:\Users\Nabeel\AndroidStudioProjects\food-ordering-system-master\app\src\main\AndroidManifest.xml:8:5-26:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\d0e5585bf8fde125ede557bfc1d841da\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\d0e5585bf8fde125ede557bfc1d841da\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\870e09e00b53e1c09c97b2ff912738dd\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\870e09e00b53e1c09c97b2ff912738dd\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\24506136793fc1472fcb3b2fffcac7b1\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\24506136793fc1472fcb3b2fffcac7b1\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\2774051dae4fd803dc435bc5419ecda1\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\2774051dae4fd803dc435bc5419ecda1\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\24506136793fc1472fcb3b2fffcac7b1\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Nabeel\AndroidStudioProjects\food-ordering-system-master\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\Nabeel\AndroidStudioProjects\food-ordering-system-master\app\src\main\AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from C:\Users\Nabeel\AndroidStudioProjects\food-ordering-system-master\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\Nabeel\AndroidStudioProjects\food-ordering-system-master\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\Nabeel\AndroidStudioProjects\food-ordering-system-master\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.ashikrabbani.oresturent.MainActivity
+ADDED from C:\Users\Nabeel\AndroidStudioProjects\food-ordering-system-master\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\Nabeel\AndroidStudioProjects\food-ordering-system-master\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Nabeel\AndroidStudioProjects\food-ordering-system-master\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Nabeel\AndroidStudioProjects\food-ordering-system-master\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\Nabeel\AndroidStudioProjects\food-ordering-system-master\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Nabeel\AndroidStudioProjects\food-ordering-system-master\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\Nabeel\AndroidStudioProjects\food-ordering-system-master\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.ashikrabbani.oresturent.orderDetails
+ADDED from C:\Users\Nabeel\AndroidStudioProjects\food-ordering-system-master\app\src\main\AndroidManifest.xml:22:9-25:68
+	android:label
+		ADDED from C:\Users\Nabeel\AndroidStudioProjects\food-ordering-system-master\app\src\main\AndroidManifest.xml:24:13-65
+	android:theme
+		ADDED from C:\Users\Nabeel\AndroidStudioProjects\food-ordering-system-master\app\src\main\AndroidManifest.xml:25:13-56
+	android:name
+		ADDED from C:\Users\Nabeel\AndroidStudioProjects\food-ordering-system-master\app\src\main\AndroidManifest.xml:23:13-41
+uses-sdk
+INJECTED from C:\Users\Nabeel\AndroidStudioProjects\food-ordering-system-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Nabeel\AndroidStudioProjects\food-ordering-system-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Nabeel\AndroidStudioProjects\food-ordering-system-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\d0e5585bf8fde125ede557bfc1d841da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\d0e5585bf8fde125ede557bfc1d841da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\dfd67a376e9d2865c3fe8ab1660e84ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\dfd67a376e9d2865c3fe8ab1660e84ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\ca9e47a561e9a4a9e099a91c0e15284b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\ca9e47a561e9a4a9e099a91c0e15284b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\870e09e00b53e1c09c97b2ff912738dd\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\870e09e00b53e1c09c97b2ff912738dd\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\ce13978c231ebe60dd37b596d35bbffc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\ce13978c231ebe60dd37b596d35bbffc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\f5753571c5422efc0a02ae07feba6ba6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\f5753571c5422efc0a02ae07feba6ba6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\57db317afda68f79fd43af5cd351148f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\57db317afda68f79fd43af5cd351148f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\861f87c8bc321a56e7f59a1fb6358e71\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\861f87c8bc321a56e7f59a1fb6358e71\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\dd4f4a1af8244305cc2b3cb9b21bf28b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\dd4f4a1af8244305cc2b3cb9b21bf28b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\194290bef3aca4a28917fc1ba2ed36a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\194290bef3aca4a28917fc1ba2ed36a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\eb6009435b57a59d3792a1d6ec027dcf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\eb6009435b57a59d3792a1d6ec027dcf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\657d3c1c84b39b9eccfb430fe705d6bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\657d3c1c84b39b9eccfb430fe705d6bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\c6d7f59aebf0a9885f78dfd729e3be35\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\c6d7f59aebf0a9885f78dfd729e3be35\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\7bfe4cc7c14b029d88201353bb487ab7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\7bfe4cc7c14b029d88201353bb487ab7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\635347cc0e144c3746ac4c52a28c9a12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\635347cc0e144c3746ac4c52a28c9a12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\bb8bd60abc8ec7d9224457aaa8d52436\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\bb8bd60abc8ec7d9224457aaa8d52436\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\029f015d6be8c107380c66d8b180e351\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\029f015d6be8c107380c66d8b180e351\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\9bf18e9fca6c79ee6e5ebb9c11a6c3c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\9bf18e9fca6c79ee6e5ebb9c11a6c3c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\ae32bb954290fcd0182fff2c6724392a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\ae32bb954290fcd0182fff2c6724392a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\24506136793fc1472fcb3b2fffcac7b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\24506136793fc1472fcb3b2fffcac7b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\2774051dae4fd803dc435bc5419ecda1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\2774051dae4fd803dc435bc5419ecda1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\815903cfea809dbbc2d75a05340ebfac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\815903cfea809dbbc2d75a05340ebfac\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e55294b3c6f9a3de445f246cafb58d46\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e55294b3c6f9a3de445f246cafb58d46\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\7167df32433b9b0bfcfc517db1212167\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\7167df32433b9b0bfcfc517db1212167\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\1ed7f09e7259085c4de92041eb407e32\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\1ed7f09e7259085c4de92041eb407e32\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\6c22b17cfa2fd6fa151e59230a78812b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\6c22b17cfa2fd6fa151e59230a78812b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1037215c12b92f2467d06571f2e77613\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1037215c12b92f2467d06571f2e77613\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\0ce60ef006fe96d006a8b517013aee15\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\0ce60ef006fe96d006a8b517013aee15\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\8de8504243b0caaca1e39ba85968539a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\8de8504243b0caaca1e39ba85968539a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\c23dc22405125cc3279ca8e8dacc4b7b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\c23dc22405125cc3279ca8e8dacc4b7b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8cc362f6b806a905a9b86e532ff403cd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Nabeel\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8cc362f6b806a905a9b86e532ff403cd\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Nabeel\AndroidStudioProjects\food-ordering-system-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Nabeel\AndroidStudioProjects\food-ordering-system-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Nabeel\AndroidStudioProjects\food-ordering-system-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nabeel\AndroidStudioProjects\food-ordering-system-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nabeel\AndroidStudioProjects\food-ordering-system-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Nabeel\AndroidStudioProjects\food-ordering-system-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nabeel\AndroidStudioProjects\food-ordering-system-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nabeel\AndroidStudioProjects\food-ordering-system-master\app\src\main\AndroidManifest.xml
